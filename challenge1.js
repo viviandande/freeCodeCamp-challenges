@@ -1,11 +1,16 @@
 // Reverse a string
-// Reverse the provided String.
 
-// reverseString("hello") should return a string.
-// reverseString("hello") should become "olleh".
+// Reverse the provided String.
+// You may need to turn the string into an array before you can reverse it.
+// Your result must be a string.
 
 
 //solution1
+
+// function reverseString(str){
+
+//}
+//reverseString("hello");
 
 function reverseString(str){
     let stringArray = str.split("");
